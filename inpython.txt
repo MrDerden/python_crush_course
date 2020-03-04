@@ -1,0 +1,3 @@
+In pyton you can write classes
+In python you can work with data
+In python you can make strange things
